@@ -8,6 +8,7 @@ function Home() {
     <>
         <Header />
         <Banner/>
+   <br /> <br />
         <RowList/>
         <Footer />
 
